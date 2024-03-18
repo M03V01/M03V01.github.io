@@ -1,6 +1,8 @@
 #  Progetti universitari di gruppo e individuali, per i quali mi sono occupata della parte di sviluppo: 
 - un sito statico, solo per desktop, come catalogo di un oggetto, primo sito sviluppato in assoluto nel 2021 in triennale;
-[link sito statico: https://m03v01.github.io/root_ikea/index.html]
+[link sito statico:
+https://m03v01.github.io/root_ikea/index.html
+]
 
 - un sito responsive con soggetto un'agenzia di comunicazione, primo sito responsive sviluppato in triennale nel 2022;
 [link sito responsive:https://m03v01.github.io/root_medusalab/index.html]
