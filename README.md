@@ -5,7 +5,7 @@
 
 - un sito su Wordpress per un business fittizio, sviluppato in Magitrale nel 2023 -[Link Wordpress](https://biscrocca.altervista.org/)
 
-- un sito solo desktop, per una serie tv, sviluppato in Magistrale nel 2023 (unico progetto individuale) -[link sito serie](https://m03v01.github.io/root_moonknight/index.html)
+- un sito solo desktop, per una serie tv, sviluppato in Magistrale nel 2023 (unico progetto individuale) -[Link sito serie](https://m03v01.github.io/root_moonknight/index.html)
 
 - un prototipo di un'app per la quale abbiamo anche fatto i test di usabilità, sviluppato in Magistrale nel 2023 -[Link prototipo](https://cloud.protopie.io/p/bdc8ad30b29e6490aa2fb727)
 
