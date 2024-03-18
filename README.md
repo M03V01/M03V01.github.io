@@ -1,4 +1,4 @@
-#  Progetti universitari di gruppo e individuali, per i quali mi sono occupata della parte di sviluppo: 
+#  Progetti universitari svolti:
 - un sito statico, solo per desktop, come catalogo di un oggetto, primo sito sviluppato in assoluto nel 2021 in triennale;
 [link sito statico:https://m03v01.github.io/root_ikea/index.html]
 
