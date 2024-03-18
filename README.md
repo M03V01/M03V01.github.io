@@ -3,7 +3,7 @@
 
 - un sito responsive con soggetto un'agenzia di comunicazione, primo sito responsive sviluppato in triennale nel 2022 -[Link sito responsive](https://m03v01.github.io/root_medusalab/index.html)
 
-- un sito su Wordpress per un business fittizio, sviluppato in Magitrale nel 2023 -[Link Wordpress] (https://biscrocca.altervista.org/)
+- un sito su Wordpress per un business fittizio, sviluppato in Magitrale nel 2023 -[Link Wordpress](https://biscrocca.altervista.org/)
 
 - un sito solo desktop, per una serie tv, sviluppato in Magistrale nel 2023 (unico progetto individuale) -[link sito serie](https://m03v01.github.io/root_moonknight/index.html)
 
