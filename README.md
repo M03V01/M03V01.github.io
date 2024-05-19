@@ -9,4 +9,4 @@
 
 - un prototipo di un'app per la quale abbiamo anche fatto i test di usabilità, sviluppato in Magistrale nel 2023 -[Link prototipo](https://cloud.protopie.io/p/bdc8ad30b29e6490aa2fb727)
 
-- il sito responsive fatto per il progetto di Comunicazione Visiva, "Gemtopia", sviluppato in Magistrale nel 2024 - [Link prototipo](https://m03v01.github.io/root_gemtopia/root/index.html)
+- il sito responsive fatto per il progetto di Comunicazione Visiva, "Gemtopia", sviluppato in Magistrale nel 2024 - [Link Gemtopia](https://m03v01.github.io/root_gemtopia/root/index.html)
